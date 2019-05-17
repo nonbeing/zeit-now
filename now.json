@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "python",
+    "name": "python-zeit-now-helloWorld",
     "builds": [
         { "src": "*.py", "use": "@now/python" }
     ]
